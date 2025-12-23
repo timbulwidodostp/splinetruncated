@@ -1,6 +1,8 @@
 # splinetruncated
 Nonparametric Spline Truncated Regression Use splinetruncated With (In) R Software
 
+https://www.youtube.com/watch?v=Gv4sT6qdIm0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
